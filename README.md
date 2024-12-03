@@ -14,6 +14,10 @@ This project involves analyzing Reddit comments to derive insights using Python.
 - matplotlib
 - seaborn
 - nltk
+- praw
+- re
+- load_dotenv
+- snowflake
 ## How to Run
 1. Ensure you have Python installed.
 2. Install the required libraries:
